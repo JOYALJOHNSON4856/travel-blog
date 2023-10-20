@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    background-image: url('https://www.lostwithpurpose.com/wp-content/uploads/2018/02/DSC_5979.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar{
+    background-color: transparent;
+}
+
+.abouts{
+    width: 100%;
+    height: 500px;
+    background-color: bisque;
+}
+.about{
+    padding: 50px 50px;
+}
+.head2{
+    width: 100%;
+    height: 30px;
+}
+.one{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.card{
+    width: 250px;
+    height: 250px;
+    
+}
+.head3{
+    margin-top: 120px;
+}
+.logo{
+    width: 100%;
+    height: 300px;
+    background-image: url("https://www.lostwithpurpose.com/wp-content/uploads/2020/09/featured-mobile.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.map{
+    width: 100%;
+    height: 600px;
+    background-image: url(./images/Screenshot\ \(16\).png);
+}
